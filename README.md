@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrita404" alt="sadrita404" /></a> </p>
 
-- 🌱 I’m currently learning **HTML, python, java script , C++,Sql, php , aws**
+-  I’m currently learning **HTML, python, java script , C++,Sql, php , aws**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sadrita404](https://github.com/Sadrita404)
+- All of my projects are available at [https://github.com/Sadrita404](https://github.com/Sadrita404)
 
 - 📫 How to reach me **sadritaneogi@gmail.com**
 --- 
@@ -29,3 +29,24 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadrita404&show_icons=true&locale=en" alt="sadrita404" /></p>
+
+---
+
+**Member OF World Organization of the Scout Movement(WOSM)**
+
+<img width="301" height="101" alt="image" src="https://github.com/user-attachments/assets/49281a06-ac47-4328-99cc-98d29894dfe0" />
+
+---
+**Scout At The Bharat Scouts and Guides (BSG)**
+
+<img width="320" height="184" alt="image" src="https://github.com/user-attachments/assets/65fc8b3f-2eab-47f4-ad7e-5882069e55ad" />
+
+---
+**2nd Position National Space Day At Maulana Abul Kalam Azad University of Technology, West Bengal (MAKAUT, WB)**
+
+<img width="251" height="251" alt="image" src="https://github.com/user-attachments/assets/d05c1afb-93fe-4459-a60d-2ffde469c528" />
+
+---
+**Member At - Model United Nation (MUN)**
+
+<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/4e303f6e-0418-4d6c-96c6-245a9f6e5176" />
