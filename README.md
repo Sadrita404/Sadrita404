@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sadrita Neogi</h1>
-<h3 align="center">Software developer</h3>
+<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/43fb50b1-bce7-48f6-a7e7-265d1fde5652" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrita404&label=Profile%20views&color=0e75b6&style=flat" alt="sadrita404" /> </p>
 
