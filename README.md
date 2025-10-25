@@ -2,8 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrita404&label=Profile%20views&color=0e75b6&style=flat" alt="sadrita404" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrita404" alt="sadrita404" /></a> </p>
-
+[<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadrita404" alt="sadrita404" /></a> </p>
+](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub)
 -  I’m currently learning **HTML, python, java script , C++,Sql, php , aws**
 
 - All of my projects are available at [https://github.com/Sadrita404](https://github.com/Sadrita404)
