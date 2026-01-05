@@ -1,4 +1,4 @@
-<img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/43fb50b1-bce7-48f6-a7e7-265d1fde5652" />
+<img width="1584" height="396" alt="Beige Gradient Modern Personal LinkedIn Banner" src="https://github.com/user-attachments/assets/ac5d7aa4-ef36-4942-8e7e-762e64d2bc3c" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadrita404&label=Profile%20views&color=0e75b6&style=flat" alt="sadrita404" /> </p>
 
