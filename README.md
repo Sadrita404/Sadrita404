@@ -27,9 +27,12 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sadrita404&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sadrita404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sadrita404&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadrita404&show_icons=true&locale=en&layout=compact" alt="sadrita404" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadrita404&show_icons=true&locale=en" alt="sadrita404" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrita404&" alt="sadrita404" /></p>
+
 
 ---
 
