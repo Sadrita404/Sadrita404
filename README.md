@@ -10,7 +10,34 @@
 
 - 📫 How to reach me **sadritaneogi@gmail.com**
 --- 
-# [Leetcode Profile](https://leetcode.com/u/Sadrita404/)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d50f443b-7081-49d9-ab0f-019ccf9d0d84"
+       width="260"
+       alt="AlgoZenith Logo" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sadrita404/">
+    <strong>👉 LeetCode Profile</strong>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4ae76908-4fa5-44e8-9c1f-2118f36b5d55"
+       width="260"
+       alt="AlgoZenith Logo" />
+</p>
+
+<p align="center">
+  <a href="https://maang.in/users/Sadrita404">
+    <strong>👉 AlgoZenith Profile</strong>
+  </a>
+</p>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/sadrita404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sadrita404" height="30" width="40" /></a>
