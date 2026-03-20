@@ -22,19 +22,6 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4ae76908-4fa5-44e8-9c1f-2118f36b5d55"
-       width="260"
-       alt="AlgoZenith Logo" />
-</p>
-
-<p align="center">
-  <a href="https://maang.in/users/Sadrita404">
-    <strong>👉 AlgoZenith Profile</strong>
-  </a>
-</p>
 
 ---
 
