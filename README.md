@@ -34,13 +34,26 @@
 
 ---
 
-# 📊 GitHub Stats:
+# GitHub Stats:
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sadrita404&show_icons=true&locale=en&layout=compact" alt="sadrita404" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sadrita404&show_icons=true&locale=en" alt="sadrita404" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrita404&" alt="sadrita404" /></p>
 
+---
+# Hackatime Stats:
+
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=29384&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
+)
+
+<a href="https://heatmap.shymike.dev?id=29384&cell_size=22&padding=4&rounding=100&ranges=64%2C30%2C10&standalone=true" title="Click to view detailed data for each day!">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://heatmap.shymike.dev?id=29384&cell_size=22&padding=4&rounding=100&ranges=64%2C30%2C10&theme=dark">
+        <img alt="Hackatime activity heatmap" src="https://heatmap.shymike.dev?id=29384&cell_size=22&padding=4&rounding=100&ranges=64%2C30%2C10&theme=light">
+    </picture>
+</a>
 
 ---
 
@@ -54,11 +67,3 @@
 <img width="320" height="184" alt="image" src="https://github.com/user-attachments/assets/65fc8b3f-2eab-47f4-ad7e-5882069e55ad" />
 
 ---
-**2nd Position National Space Day At Maulana Abul Kalam Azad University of Technology, West Bengal (MAKAUT, WB)**
-
-<img width="251" height="251" alt="image" src="https://github.com/user-attachments/assets/d05c1afb-93fe-4459-a60d-2ffde469c528" />
-
----
-**Member At - Model United Nation (MUN)**
-
-<img width="400" height="150" alt="image" src="https://github.com/user-attachments/assets/4e303f6e-0418-4d6c-96c6-245a9f6e5176" />
