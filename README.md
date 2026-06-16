@@ -12,19 +12,6 @@
 
 ## [Portfolio Website ](https://www.sadrita.in/)
 
---- 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d50f443b-7081-49d9-ab0f-019ccf9d0d84"
-       width="260"
-       alt="AlgoZenith Logo" />
-</p>
-
-<p align="center">
-  <a href="https://leetcode.com/u/Sadrita404/">
-    <strong>👉 LeetCode Profile</strong>
-  </a>
-</p>
-
 
 ---
 
@@ -42,10 +29,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sadrita404&" alt="sadrita404" /></p>
 
 ---
-# Hackatime Stats:
-
-![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=29384&api_domain=hackatime.hackclub.com&theme=gruvbox&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8
-)
 
 <a href="https://heatmap.shymike.dev?id=29384&cell_size=22&padding=4&rounding=100&ranges=64%2C30%2C10&standalone=true" title="Click to view detailed data for each day!">
     <picture>
@@ -56,7 +39,7 @@
 
 ---
 
-**Member OF World Organization of the Scout Movement(WOSM)**
+**Member of World Organization of the Scout Movement(WOSM)**
 
 <img width="301" height="101" alt="image" src="https://github.com/user-attachments/assets/49281a06-ac47-4328-99cc-98d29894dfe0" />
 
